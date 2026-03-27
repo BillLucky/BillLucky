@@ -14,4 +14,4 @@ Here is a quick snapshot of who I am and what I'm up to:
 **📫 Let's connect! You can find me here:**
 
 - **X (Twitter):** [@BillLi_AI](https://x.com/BillLi_AI)
-- **微信视频号 & 抖音 (WeChat Video & Douyin):** 搜索 **大彪Bill的商业手记**
+- My Chinese media channels: 微信视频号 & 抖音 | 大彪 Bill 的AI商业手记

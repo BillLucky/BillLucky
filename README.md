@@ -15,3 +15,15 @@ Here is a quick snapshot of who I am and what I'm up to:
 
 - **X (Twitter):** [@BillLi_AI](https://x.com/BillLi_AI)
 - My Chinese media channels: 微信视频号 & 抖音 | 大彪 Bill 的AI商业手记
+
+
+## Current Projects
+
+- 💡 [painhunt.dev](painhunt.dev) - (closed source) Validate your idea in 10 seconds.
+- 💾 [MountGuard-for-Mac](https://github.com/BillLucky/MountGuard-for-Mac) - Freely Read and Write to External Hard Drives on Mac.
+- 📚 [baike-downloader](https://github.com/BillLucky/baike-downloader) - Efficiently search Baidu Baike and download data for research and study.
+- 🖼 [tuiqiao-skills](https://github.com/BillLucky/tuiqiao-skills) - Tuiqiao.art Design Website: High-Efficiency Image Generation.
+- 💽 [QMKG-Music-Downloader](https://github.com/BillLucky/QMKG-Music-Downloader) - Efficiently Back Up Quanmin Kge('全民K歌') Data.
+- 💻 [multi-mitmproxy-service](https://github.com/BillLucky/multi-mitmproxy-service) - Multi-Port Reverse Proxy Suite: Analyze and Diagnose Any Call.
+- 🔩 [trojan-x](https://github.com/BillLucky/trojan-x) - trojan x, fast run the [trojan](https://github.com/trojan-gfw/trojan) server in local.
+- 🎥 [zhidun-echo](https://github.com/BillLucky/zhidun-echo) - An AI-driven content engine that automates video, audio, and text creation.（Under Construction — Not Yet Public）

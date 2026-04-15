@@ -26,4 +26,4 @@ Here is a quick snapshot of who I am and what I'm up to:
 - 💽 [QMKG-Music-Downloader](https://github.com/BillLucky/QMKG-Music-Downloader) - Efficiently Back Up Quanmin Kge('全民K歌') Data.
 - 💻 [multi-mitmproxy-service](https://github.com/BillLucky/multi-mitmproxy-service) - Multi-Port Reverse Proxy Suite: Analyze and Diagnose Any Call.
 - 🔩 [trojan-x](https://github.com/BillLucky/trojan-x) - trojan x, fast run the [trojan](https://github.com/trojan-gfw/trojan) server in local.
-- 🎥 [zhidun-echo](https://github.com/BillLucky/zhidun-echo) - An AI-driven content engine that automates video, audio, and text creation.（Under Construction — Not Yet Public）
+- 🎥 [zhidun-echo](https://github.com/BillLucky/zhidun-echo) - An AI-driven content engine that automates video, audio, and text creation.（Not Yet Public）

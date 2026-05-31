@@ -14,12 +14,13 @@ Here is a quick snapshot of who I am and what I'm up to:
 **📫 Let's connect! You can find me here:**
 
 - **X (Twitter):** [@BillLi_AI](https://x.com/BillLi_AI)
+- **Website:** [libiao.ai](https://libiao.ai/)
 - My Chinese media channels: 微信视频号 & 抖音 | 大彪 Bill 的AI商业手记
 
 
 ## Current Projects
 
-- 💡 [painhunt.dev](painhunt.dev) - (closed source) Validate your idea in 10 seconds.
+- 💡 [painhunt.dev](https://painhunt.dev/) - (closed source) Validate your idea in 10 seconds.
 - 💾 [MountGuard-for-Mac](https://github.com/BillLucky/MountGuard-for-Mac) - Freely Read and Write to External Hard Drives on Mac.
 - 📚 [baike-downloader](https://github.com/BillLucky/baike-downloader) - Efficiently search Baidu Baike and download data for research and study.
 - 🖼 [tuiqiao-skills](https://github.com/BillLucky/tuiqiao-skills) - Tuiqiao.art Design Website: High-Efficiency Image Generation.

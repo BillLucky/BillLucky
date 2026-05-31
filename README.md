@@ -1,4 +1,4 @@
-## Hi there, I'm Bill 👋
+## Hi there, I'm Bill Li 👋
 
 *"Creating valuable things in effective ways is not just what I do; it's my ultimate joy as an engineer."*
 

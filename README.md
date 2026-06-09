@@ -28,4 +28,5 @@ Here is a quick snapshot of who I am and what I'm up to:
 - 💻 [multi-mitmproxy-service](https://github.com/BillLucky/multi-mitmproxy-service) - Multi-Port Reverse Proxy Suite: Analyze and Diagnose Any Call.
 - 🔩 [trojan-x](https://github.com/BillLucky/trojan-x) - trojan x, fast run the [trojan](https://github.com/trojan-gfw/trojan) server in local.
 - 🎥 [echocut](https://github.com/BillLucky/echocut) - An AI-driven content engine that automates video, audio, and text creation.
+- 📒 [echolog](https://github.com/BillLucky/echolog) - Local-first daily journaling bot — chat in Feishu/Telegram, archive as Markdown, synthesize evidence-driven diaries via local Ollama or cloud LLM (OpenAI-compatible / Anthropic). Obsidian-friendly.
 - 📚 [ai-army-evolution](https://github.com/BillLucky/ai-army-evolution) - An Open-Source Website for AI Learning Resources.

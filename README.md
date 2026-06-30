@@ -30,3 +30,4 @@ Here is a quick snapshot of who I am and what I'm up to:
 - 🎥 [echocut](https://github.com/BillLucky/echocut) - An AI-driven content engine that automates video, audio, and text creation.
 - 📒 [echolog](https://github.com/BillLucky/echolog) - Local-first daily journaling bot — chat in Feishu/Telegram, archive as Markdown, synthesize evidence-driven diaries via local Ollama or cloud LLM (OpenAI-compatible / Anthropic). Obsidian-friendly.
 - 📚 [ai-army-evolution](https://github.com/BillLucky/ai-army-evolution) - An Open-Source Website for AI Learning Resources.
+- 📚 [lumina](https://github.com/BillLucky/lumina) - Turn great thinkers' blogs & podcasts into beautiful bilingual (EN+ZH) open e-books — scrape, translate (faithful·expressive·elegant), distill briefs & mind maps, typeset to EPUB/PDF/MOBI/AZW3.

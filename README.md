@@ -32,3 +32,4 @@ Here is a quick snapshot of who I am and what I'm up to:
 - 📚 [ai-army-evolution](https://github.com/BillLucky/ai-army-evolution) - An Open-Source Website for AI Learning Resources.
 - 📚 [lumina](https://github.com/BillLucky/lumina) - Turn great thinkers' blogs & podcasts into beautiful bilingual (EN+ZH) open e-books — scrape, translate (faithful·expressive·elegant), distill briefs & mind maps, typeset to EPUB/PDF/MOBI/AZW3.
 - 🎵 [sayloop](https://github.com/BillLucky/sayloop) - Local-first speech studio and sentence-by-sentence language practice with [Kokoro](https://huggingface.co/hexgrad/Kokoro-82M).
+- 🗄️ [wizbackup](https://github.com/BillLucky/wizbackup) - Back up, decrypt, and migrate WizNote (为知笔记), a Chinese cloud note-taking app, with local Markdown/HTML archives and an Agent Skill.
